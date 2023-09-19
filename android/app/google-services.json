@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "814142370478",
+    "project_id": "wise-gadget-362820",
+    "storage_bucket": "wise-gadget-362820.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814142370478:android:41aa8960608116263bb33f",
+        "android_client_info": {
+          "package_name": "com.example.zoom_clone_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814142370478-flds23a88vpnbj8r6bsv29fnuau4rt73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTrvcYQb3_V_ecuBLSzxMGhReBZixooMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814142370478-flds23a88vpnbj8r6bsv29fnuau4rt73.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "814142370478-4f46so7hnesbc3vh2g6d2ehsq319cdtd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.idks"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
